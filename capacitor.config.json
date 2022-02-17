@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BPM",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
