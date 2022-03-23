@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  loginUrl: 'https://login.bpm.gt/API/API_login.php?request=',
+  ayudaUrl: '/ROOT/API/API_ayuda.php?request=',
+  utilUrl: '/ROOT/API/API_util.php?request=',
+  ajustesUrl: '/ROOT/API/API_ajustes.php?request=',
+  checkListUrl: '/ROOT/API/API_checklist.php?request=',
+  fotoPerfil: '/ROOT/API/API_foto_perfil.php',
+  agregarFoto: '/ROOT/API/API_checklist_foto.php',
+  agregarFirma: '/ROOT/API/API_cheklist_firma.php'
 };
 
 /*

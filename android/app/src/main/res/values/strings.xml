@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Checklist</string>
+    <string name="title_activity_main">Checklist</string>
+    <string name="package_name">gt.bpm.checklist</string>
+    <string name="custom_url_scheme">gt.bpm.checklist</string>
+</resources>

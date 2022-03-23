@@ -1,0 +1,81 @@
+    ion-content{
+        --background:linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+            ), url('../../assets/img/bg-login.jpg') no-repeat center center / cover;
+    }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.img {
+    height: 67%;
+    width: 67%;
+    margin-left: 15%;
+}
+
+h2 {
+    color: rgb(37, 130, 170);
+}
+
+.body {
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-right: 3%;
+    padding-left: 3%;
+    background-color: #FFF;
+}
+
+ion-item {
+    --border-color: transparent !important;
+    --background: #F7F7F6;
+    border-radius: 14px;
+    margin-bottom: 14px;
+    margin-top: 14px;
+}
+
+ion-icon {
+    color: rgb(37, 130, 170);
+}
+
+ion-input {
+    --color: black;
+}
+
+ion-list {
+    background-color: #FFF;
+    padding-top: 7%;
+}
+
+.button-1{
+    --background:rgb(37, 130, 170); 
+    margin-top: 10%;
+}
+
+ion-toolbar{
+    --background: white; 
+}
+
+.icono{
+    color: white;
+}
+
+ion-title{
+    color: rgb(37, 130, 170);
+}
+
+.error-container{
+    color: #66615B;
+}
